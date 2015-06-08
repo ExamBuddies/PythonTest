@@ -11,3 +11,5 @@ def fact(n):
 
 print(fact(4))
 print
+
+print "hej hej"
